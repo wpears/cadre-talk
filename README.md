@@ -1,0 +1,1 @@
+Talk on the purpose / activities of DWR's ArcGIS Server Cadre given at DWR's GIS Day on 11/13/14.
