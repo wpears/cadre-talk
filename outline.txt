@@ -1,19 +1,3 @@
-web app standards
-service design
-training
-workflows for publishing
-work with DTS on backend structure
-  -move from 10.0 to 10.2 
-    - mention danny and nic.. overburdened with our GISer questions
-  -permissions
-
-work with DTS to crystallize needs
-templates
-work with individuals
-  GICIMA
-web map class
-AGOL use, options
-
 
 ArcGIS Server Cadre - Bad name, good mission
   Make it easy for people at DWR to create custom geospatial web applications.
@@ -35,7 +19,7 @@ ArcGIS Server Cadre - Bad name, good mission
     permissions were ad hoc..
     The move to 10.2 afforded us the opportunity to fix these problems.
     
-    Ability to work on apps -->
+  Ability to work on apps -->
     Staging & Production
       Working with DTS to design the infrastructure, having two separate environments for development and production
       applications rose the to the forefront as a way to solve many of our former woes.
@@ -47,8 +31,25 @@ ArcGIS Server Cadre - Bad name, good mission
         be pursued easily
           this allows more people to actually get working on apps, rather than getting stuck in red tape or thinking
           they need to design the entire application before getting parts of it working
-        
+          -->making it easy for people to create  
+  Create the apps
+    
+    best practices, living document that espouses some good design principles
+    workshop on designing and creating services
+    brownbag
+    upcoming training
+    ... dive in!
+ 
+  Workflow       
+    Step by step guide for going from a map and an idea to an application.
+    Server names, urls, moving from staging to production
 
+  Templates     
+    Drop in service URL to get a lot of features for free.
+    Ease of use, without cost of AGOL or lock-in
 
-  
-
+  Making it easy for PEOPLE
+    come to the cadre with questions
+    work out the best solution together
+    everybody wins 
+           
