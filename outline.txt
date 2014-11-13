@@ -1,0 +1,19 @@
+web app standards
+service design
+training
+workflows for publishing
+work with DTS on backend structure
+  -move from 10.0 to 10.2 
+    - mention danny and nic.. overburdened with our GISer questions
+  -permissions
+
+work with DTS to crystallize needs
+templates
+work with individuals
+  GICIMA
+web map class
+AGOL use, options
+
+ArcGIS Server Cadre - Bad name, good mission
+
+
