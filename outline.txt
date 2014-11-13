@@ -14,6 +14,41 @@ work with individuals
 web map class
 AGOL use, options
 
-ArcGIS Server Cadre - Bad name, good mission
 
+ArcGIS Server Cadre - Bad name, good mission
+  Make it easy for people at DWR to create custom geospatial web applications.
+  and answer questions about them 
+    What is a web app vs. site?
+    What makes a good web map?
+    What does our ArcGIS Server do?
+    What's a service?
+    How to create a service?
+    How to make an app?
+    Should I use ArcGIS Online?
+    Infrastructure needed for web apps?
+    Permissions?
+    Cost?
+  These are all good questions that many people are asking.. cadre was formed to answer them
+
+  Set the scene:
+    10.0 server, no production apps on the enterprise system, no clear workflow to make an app let alone production,
+    permissions were ad hoc..
+    The move to 10.2 afforded us the opportunity to fix these problems.
+    
+    Ability to work on apps -->
+    Staging & Production
+      Working with DTS to design the infrastructure, having two separate environments for development and production
+      applications rose the to the forefront as a way to solve many of our former woes.
+
+      With a staging environment:
+        Can have looser permission-requirements (if you join the cadre, you can publish to the staging 
+        GIS Server and create staging applications)
+        DTS focused on the integrity of production applications only, testing and development applications can
+        be pursued easily
+          this allows more people to actually get working on apps, rather than getting stuck in red tape or thinking
+          they need to design the entire application before getting parts of it working
+        
+
+
+  
 
